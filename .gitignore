@@ -1,3 +1,6 @@
+# downloaded git repos will be in a '.git_*' named dir. 
+.git_*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
