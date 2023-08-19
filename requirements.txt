@@ -1,0 +1,6 @@
+python-dotenv
+pypdf 
+markdown
+openai
+GitPython
+bs4
