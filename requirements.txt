@@ -1,8 +1,4 @@
 langchain
-python-dotenv
-pypdf 
-markdown
-tiktoken
-openai
-GitPython
-bs4
+huggingface_hub
+transformers
+sentence_transformers
