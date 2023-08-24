@@ -2,6 +2,7 @@ langchain
 python-dotenv
 pypdf 
 markdown
+tiktoken
 openai
 GitPython
 bs4
