@@ -6,3 +6,6 @@ tiktoken
 openai
 GitPython
 bs4
+chromadb
+google-search-results
+pandas
